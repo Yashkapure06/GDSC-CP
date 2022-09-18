@@ -1,4 +1,4 @@
-package Day1;
+package Day1_18_09;
 
 public class ComparisonOperations {
 
