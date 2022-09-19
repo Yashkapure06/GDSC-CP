@@ -1,5 +1,6 @@
 //Q1.  Write a simple program using the arithmetic operator.
 //Date : 18-09-2022
+
 const a = 5;
 const b = 15;
 //function to add two numbers    
