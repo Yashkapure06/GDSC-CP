@@ -1,4 +1,5 @@
 // Q2 Write simple program using comparison operator.
+//Date : 18-09-2022
 const a = 5;
 const b = 15;
 //function to check if a is greater than b
