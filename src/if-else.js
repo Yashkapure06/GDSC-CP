@@ -10,4 +10,3 @@ function oddOrEven(a) {
     }
 }
 console.log(oddOrEven(a));
-
